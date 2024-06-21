@@ -1,0 +1,16 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --env-file=./.env app.js"
+  },
+  "dependencies": {
+    "node": "~20.15.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1",
+    "mysql2": "^3.10.1"
+  }
+}
