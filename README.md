@@ -25,7 +25,7 @@ DB_NAME=database_name
 ```bash
 npm i
 ```
-3. Start up
+3. Start application
 ```bash
 npm run start
 ```
