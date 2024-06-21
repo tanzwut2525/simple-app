@@ -17,3 +17,16 @@ DB_USER=root
 DB_PASSWORD=db_password
 DB_NAME=database_name
 ```
+---
+#### Init project
+
+1. create `.env` file
+2. Run npm install
+```bash
+npm i
+```
+3. Start up
+```bash
+npm run start
+```
+
